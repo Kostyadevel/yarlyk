@@ -1,0 +1,30 @@
+ol{
+    padding-top: 45px;
+    padding-left: 60px;
+    line-height: 2;
+    font-size: 190%;
+    color: deeppink;
+    column-count: 3;
+    column-gap: 20%;
+    padding-left: 150px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+img{
+    position: relative;
+    top: 5px;
+}
+
+.TITLE{
+    top: 20px;
+    color: black;
+    left: 45%;
+    font-size: 200%;
+    position: absolute;
+    font-style: italic;
+    font-weight: bolder;
+}
